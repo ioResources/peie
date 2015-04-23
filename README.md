@@ -2,7 +2,17 @@
 
 Znajdziecie tu treści zadań i opisy ćwiczeń z przedmiotu "Podstawy elektrotechniki i elektroniki".
 
-**[0.wprowadzenie](0.wprowadzenie.md)** - link do programu symulacyjnego, pierwsze ćwiczenia na rozgrzewkę
+Celem ćwiczeń jest **przeprowadzenie pomiarów** opisanych w instrukcji (w programie PartSim) oraz **opracowanie sprawozdania**.
 
-**[1. Prawa Kirchhoffa](1.Kirchhoff/1.Kirchhoff.md)**
+Struktura sprawozdania ma odpowiadać instrukcji:
+
+1. **Wiadomości teoretyczne** - przedstawiacie teorię na temat przeprowadzanego ćwiczenia (ok. jednej strony).
+2. **Schemat badanego obwodu** - w sprawozdaniu zamieszczacie schemat z instrukcji.
+3. **Przebieg pomiarów** - wykonujecie czynności opisane w instrukcji. Wszystkie zmierzone wartości (symulacja PartSim) zapisujecie w tabeli.
+4. **Zestawienie wyników pomiarów** - przeprowadzanie obliczenia opisane w instrukcji. Zamieszczacie zapis całego toku obliczeń, a nie tylko wyniki.
+5. **Wnioski** - podsumowujecie ćwiczenie.
+6. **Literatura** - jeżeli korzystaliście z jakiejś literatury (z uwzględnieniem stron internetowych), umieszczacie tu namiary.
+
+**Plik PDF ze sprawozdaniem nazwijcie wg schematu `nr_ćwiczenia.nazwisko.zip` i wyślijcie na adres aleksander.lamza@us.edu.pl.**
+
 
